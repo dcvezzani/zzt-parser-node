@@ -1,0 +1,11 @@
+{
+  "name": "zzt-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "binary-file": "^0.2.3",
+    "hex2dec": "^1.1.2",
+    "nodemon": "^2.0.4"
+  }
+}
